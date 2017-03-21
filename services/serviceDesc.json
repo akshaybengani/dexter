@@ -1,0 +1,407 @@
+[{
+  "id": "1",
+  "mainCat": "0",
+  "name": "UIT Plot Scheme",
+  "desc": [{
+    "name": "Eligibility",
+    "details": [
+      "citizen shold be rajasthani",
+      "Applicant Should Be Maried"
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "Plots At 10L",
+      "Selection By Lotery"
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "2",
+  "mainCat": "0",
+  "name": "APJ gareeb Avas Yojna",
+  "desc": [{
+    "name": "Eligibility",
+    "details": [
+      "Mothnly income should not exceed 2.50.000L",
+      "Applicant Should Be Maried"
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "Plots At 1L",
+      "Only For Basti People"
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "3",
+  "mainCat": "0",
+  "name": "Private Portels",
+  "desc": [{
+    "name": "Eligibility",
+    "details": [
+      "varios ",
+      "various"
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "",
+      ""
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "4",
+  "mainCat": "0",
+  "name": "leave no",
+  "desc": [{
+    "name": "Eligibility",
+    "details": [
+      "call us on 1800-aaa-bbb",
+      ""
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "",
+      ""
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "5",
+  "mainCat": "0",
+  "name": "Grievence",
+  "desc": [{
+    "name": "Eligibility",
+    "details": [
+      "text here"
+    ]
+  }, {
+    "name": "Details",
+    "details": []
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "6",
+  "mainCat": "0",
+  "name": "below 12th",
+  "desc": [{
+    "name": "Eligibility",
+    "details": [
+      "",
+      "Applicant Should be at 12th or below level pass"
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "Courses",
+      "Skill India"
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "7",
+  "mainCat": "0",
+  "name": "secondry",
+  "desc": [{
+    "name": "Eligibility",
+    "details": [
+      "couses",
+      ""
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      ""
+    ],
+    "loc": "Rajasthan"
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "8",
+  "mainCat": "0",
+  "name": "graduation",
+  "desc": [{
+    "name": "Eligibility",
+    "details": [
+      "",
+      ""
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "Courses",
+      ""
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "9",
+  "mainCat": "0",
+  "name": "beti bachao beti pdao",
+  "desc": [{
+    "name": "Eligibility",
+    "details": [
+      "courses",
+      ""
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "",
+      ""
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "10",
+  "mainCat": "0",
+  "name": "course portal",
+  "desc": [{
+    "name": "Eligibility",
+    "details": [
+      "courses",
+      ""
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "",
+      ""
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "11",
+  "mainCat": "0",
+  "name": "electricity",
+  "desc": [{
+    "name": "Pay Method",
+    "details": [
+      "paytm",
+      "credit card"
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "unit consumed",
+      "rate pr unit",
+      "bill before date",
+      "bill after date"
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "12",
+  "mainCat": "0",
+  "name": "gas",
+  "desc": [{
+    "name": "Pay Method",
+    "details": [
+      "paytm",
+      "credit card"
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "consumption of fuel",
+      "rate per consumption"
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "13",
+  "mainCat": "0",
+  "name": "rates of rashan",
+  "desc": [{
+    "name": "Pay Method",
+    "details": [
+      "paytm",
+      "credit card"
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "remained  ",
+      "rates"
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "14",
+  "mainCat": "0",
+  "name": "10th pass",
+  "desc": [{
+    "name": "Jobs",
+    "details": [
+      "Teacher",
+      "Worker",
+      "Engineer"
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      ""
+    ],
+    "Department": [
+      "skill india"
+    ],
+    "loc": "Rajasthan"
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "15",
+  "mainCat": "0",
+  "name": "undergraduate",
+  "desc": [{
+    "name": "Jobs",
+    "details": [
+      "Teacher",
+      "Worker",
+      "Engineer"
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "Department",
+      "skill india"
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "16",
+  "mainCat": "0",
+  "name": "graduate",
+  "desc": [{
+    "name": "Jobs",
+    "details": [
+      "Teacher",
+      "Worker",
+      "Engineer"
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "Department",
+      "skill india"
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "17",
+  "mainCat": "0",
+  "name": "phd",
+  "desc": [{
+    "name": "Jobs",
+    "details": [
+      "Teacher",
+      "Worker",
+      "Engineer"
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "Department",
+      "skill india"
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "18",
+  "mainCat": "0",
+  "name": "cost of pulses",
+  "desc": [{
+    "name": "pulses",
+    "details": [
+      "udad",
+      "mung",
+      "tuar"
+    ]
+  }, {
+    "name": "rates",
+    "details": [
+      "23",
+      "43",
+      "212"
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "19",
+  "mainCat": "0",
+  "name": "cost",
+  "desc": [{
+    "name": "names",
+    "details": [
+      "aalu",
+      "tamatar",
+      "gobi"
+    ]
+  }, {
+    "name": "rates",
+    "details": [
+      "54",
+      "21",
+      "87"
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "20",
+  "mainCat": "0",
+  "name": "type",
+  "desc": [{
+    "name": "type here",
+    "details": [
+      ""
+    ]
+  }, {
+    "name": "FAQ",
+    "details": [
+      "",
+      ""
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "21",
+  "mainCat": "0",
+  "name": "message",
+  "desc": [{
+    "name": "message",
+    "details": [
+      "Teacher",
+      "Worker",
+      "Engineer"
+    ]
+  }, {
+    "name": "Grivence Portal",
+    "details": [
+      "",
+      "voice message"
+    ]
+  }],
+  "loc": "Rajasthan"
+}, {
+  "id": "22",
+  "mainCat": "0",
+  "name": "feedback",
+  "desc": [{
+    "name": "feedback",
+    "details": [
+      "complain no",
+      "",
+      ""
+    ]
+  }, {
+    "name": "Details",
+    "details": [
+      "voice",
+      "text"
+    ]
+  }],
+  "loc": "Rajasthan"
+}]
