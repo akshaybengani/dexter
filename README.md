@@ -1,6 +1,9 @@
 # Gov Mitra
 Help is around you.
 
+## Problem Statement
+The idea is based on emitra. In the country like india we need Emitra more in rural area rather than urban area. So we are planning to build it on very simple platform for network purposes. We believe it should be simpler with very less clicks by the use of Artificial Intelligence. Our team will try to build this application looking the rural area in mind, we will be going to power this application with the connectivity as its required in rural, idea is about better connectivity, simplicity, secure and reliable link by making the transaction secure. This application will solve problems like connecting rural people with NGO and SHG.
+
 ## Project Description
 The Idea of the prototype Presented is to make the connection between government and public easier safer reliable and secure. And for this, we present a prototype. In which user will experience the very easy way to make most out of it. This platform will be presented on atm like touch screen panel.
 
