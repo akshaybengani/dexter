@@ -1,3 +1,6 @@
+# Dexter
+Rajasthan Hackathon
+
 # Gov Mitra
 Help is around you.
 
@@ -14,3 +17,4 @@ As we know that our India is developing fast with technology but one thing in wh
 <a href="https://he-s3.s3.amazonaws.com/media/sprint/rajasthan-govt-e-governance-hackathon/team/139481/1b66441dexter.pdf"> Presentation </a>
 ## Getting Started
 Just Install XAMPP SERVER in your local machine. then Open XAMPP Control Panel and Start Apache Server Then Just Copy the project folder in htdocs folder found XAMPP Installation folder Just Open your browser and write url: localhost:/dexter [project folder name]
+
